@@ -1,16 +1,51 @@
-## Hi there 👋
+# Balint Bende - DevOps & Cloud Engineer
 
-<!--
-**balintbende/balintbende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud | DevOps | Backend Engineering**
 
-Here are some ideas to get you started:
+Building cloud infrastructure with a focus on automation, reliability, and clean delivery pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I design, build, and operate cloud infrastructure:
+
+- **Cloud infrastructure** - provisioning and managing environments on AWS and Azure, from networking and compute to managed services
+- **Infrastructure as Code** - Terraform for AWS and Azure, reproducible and version-controlled across environments
+- **CI/CD pipelines** - GitHub Actions workflows and Azure Pipelines for automated build, test, and deployment
+- **Kubernetes** - multi-env cluster design and workload management
+- **Backend engineering** - strong development foundation that informs how I design platforms developers actually want to use
+
+## Technology Stack
+
+### Infrastructure & Orchestration
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+
+### Cloud & CI/CD
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
+
+### Development
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+
+## Projects and references
+
+
+## Certifications
+
+- Certified Kubernetes Administrator (CKA) ✅
+
+**Roadmap**
+- HashiCorp Terraform Associate
+- Certified Kubernetes Security Specialist (CKS)
+- Certified Kubernetes Application Developer (CKAD)
+- Kubernetes and Cloud Native Associate (KCNA)
+- Kubernetes and Cloud Native Security Associate (KCSA)
