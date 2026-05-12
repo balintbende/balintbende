@@ -1,4 +1,4 @@
-# Balint Bende - DevOps & Cloud Engineer
+# Balint Bende
 
 **Cloud | DevOps | Backend Engineering**
 
