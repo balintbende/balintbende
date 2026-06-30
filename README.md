@@ -26,6 +26,7 @@ I design, build, and operate cloud infrastructure:
 ### Cloud & CI/CD
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
+![Flux](https://img.shields.io/badge/Flux-blue)
 
 ### Development
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
