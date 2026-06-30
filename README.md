@@ -38,6 +38,19 @@ I design, build, and operate cloud infrastructure:
 
 ## Projects and references
 
+### bimlens — cloud-native BIM platform delivered end-to-end via GitOps
+
+A full-stack platform for extracting and storing building element data from IFC models, built from the browser down to the cluster as infrastructure-as-code and GitOps-driven delivery.
+
+- Cluster-as-a-service infrastructure on Azure AKS, provisioned with Terraform
+- GitOps continuous delivery with FluxCD — new images auto-released to the cluster
+- Kubernetes workloads packaged and templated with Helm
+- ASP.NET Core (.NET 10) REST backend with SOLID controller/service/repository layering
+- React 19 + TypeScript frontend with client-side IFC parsing (IFC.js)
+
+**Why this matters:** This is a complete system built the way platforms are run in production — not a single app, but the full delivery chain from provisioning to release. It demonstrates ownership of the whole stack: infrastructure, deployment automation, and the backend and frontend it serves.
+
+→ [web](https://github.com/balintbende/bimlens-web) · [api](https://github.com/balintbende/bimlens-api) · [terraform](https://github.com/balintbende/bimlens-terraform) · [helm-charts](https://github.com/balintbende/bimlens-helm-charts) · [flux](https://github.com/balintbende/bimlens-flux)
 
 ## Certifications
 
