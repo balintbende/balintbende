@@ -51,11 +51,11 @@ A full-stack platform for extracting and storing building element data from IFC 
 **Why this matters:** This is a complete system built the way platforms are run in production, but the full delivery chain from provisioning to release. It demonstrates ownership of the whole stack: infrastructure, deployment automation, and the backend and frontend it serves.
 
 Project repos:
-[web](https://github.com/balintbende/bimlens-web)
-[api](https://github.com/balintbende/bimlens-api)
-[terraform](https://github.com/balintbende/bimlens-terraform)
-[helm-charts](https://github.com/balintbende/bimlens-helm-charts)
-[flux](https://github.com/balintbende/bimlens-flux)
+- [web](https://github.com/balintbende/bimlens-web)
+- [api](https://github.com/balintbende/bimlens-api)
+- [terraform](https://github.com/balintbende/bimlens-terraform)
+- [helm-charts](https://github.com/balintbende/bimlens-helm-charts)
+- [flux](https://github.com/balintbende/bimlens-flux)
 
 ## Certifications
 
