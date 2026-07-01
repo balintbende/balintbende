@@ -44,7 +44,7 @@ I design, build, and operate cloud infrastructure:
 A full-stack platform for extracting and storing building element data from IFC models, built from the browser down to the cluster as infrastructure-as-code and GitOps-driven delivery.
 
 - Cluster-as-a-service infrastructure on Azure AKS, provisioned with Terraform
-- GitOps continuous delivery with FluxCD — new images auto-released to the cluster
+- GitOps continuous delivery with FluxCD, new images auto-released to the cluster
 - Kubernetes workloads packaged and templated with Helm
 - ASP.NET Core (.NET 10) REST backend with SOLID controller/service/repository layering
 - React 19 + TypeScript frontend with client-side IFC parsing (IFC.js)
